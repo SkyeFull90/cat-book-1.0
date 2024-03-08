@@ -1,6 +1,7 @@
 {
   "name": "client",
   "module": "index.ts",
+  "license": "GPL-3.0-only",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
